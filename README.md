@@ -1,0 +1,1 @@
+This project aims to create an Artificial Intelligence (AI) model to predict the credit score of bank customers. The model will analyze customer information and classify their credit score into three categories: Poor, Standard, and Good.
